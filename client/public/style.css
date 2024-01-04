@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.sign {
+    max-width: 500px;
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ced4da;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+#signInButton {
+    margin-bottom: 15px;
+}
+
+a {
+    text-decoration: none!important;
+}
+
+.cursor:hover {
+    cursor: pointer;
+}
+
+textarea {
+    resize: none;
+}
+
+.no-change-hover:hover {
+    color: #fff!important;
+}
+
